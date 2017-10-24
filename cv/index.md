@@ -43,7 +43,7 @@ Email: david.william.rodriguez@gmail.com
 ### University of Miami <br/>
 *April 2016-August 2016*
 * Library Assistant, Special Collections and University Archives
-  * mplemented a detailed survey of audio-visual materials in collection to determine preservation priorities and added/updated information in finding aides
+  * Implemented a detailed survey of audio-visual materials in collection to determine preservation priorities and added/updated information in finding aides
   * Assisted with requesting, pulling, and preparing collection materials for students, faculty, and outside researchers
   * Oversaw all visitors using the Special Collections Reading Room and ensured the security and proper handling of collection items
   * Liaised with library preservation staff regarding transport and documentation of conservation work performed on collection materials
@@ -83,14 +83,14 @@ Email: david.william.rodriguez@gmail.com
   * Wrote programming copy for museum’s Film & Events Calendar
   * Trained and supervised a staff of 5-6 part-time projectionists
 
-### O Cinema Miami Beach <br/>
+### O Cinema Miami Beach (Miami, FL) <br/>
 *April 2016-August 2016*
 * Film Projectionist
   * Inspected and exhibited 35mm prints using a platter projection system
   * Worked with theater staff on performing maintenance and establishing regular upkeep procedures
   * Operated a Digital Cinema projector and server when required including setting up and exhibiting alternative digital video content
 
-### Coral Gables Art Cinema <br/>
+### Coral Gables Art Cinema (Miami, FL) <br/>
 *July 2015-August 2016*
 * Film Projectionist
   * Inspected 35mm prints using archival standards for handling and repair creating detailed condition reports when required.
@@ -100,4 +100,4 @@ Email: david.william.rodriguez@gmail.com
 
 ## Work Experience - Art Preparator/Handling
 
-### Gadsden Arts Center. Quincy, FL 
+### Gadsden Arts Center (Quincy, FL) 
