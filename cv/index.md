@@ -12,15 +12,15 @@ Email: david.william.rodriguez@gmail.com
 
 ## Education
 
-| Florida State University | May 2018 |
+| Florida State University             | May 2018 |
 | -------------------------------------|------------:|
 | Master of Science in Information     |             |
 | **The L. Jeffrey Selznick School of Film Preservation**| **May 2012**|
-| Certificate                        | &nbsp;      |
-| **Unversity of Florida**            |**June 2011** |
-|MA - Film and Media Studies          |   &nbsp;     |
-|**New College of Florida**           |**June 2009** |
-| BA - Literature                     |  &nbsp;      |
+| Certificate                          | &nbsp;      |
+| **Unversity of Florida**             |**June 2011** |
+|MA - Film and Media Studies           |   &nbsp;     |
+|**New College of Florida**            |**June 2009** |
+| BA - Literature                      |  &nbsp;      |
 
 ********
 
