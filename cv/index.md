@@ -24,9 +24,11 @@ Email: david.william.rodriguez@gmail.com
 
 ********
 
-## Work Experience - Film and Media
+## Professional Experience
 
 ### Florida State University (Tallahassee, FL) <br/> *August 2016-present*
+* Resident Librarian, Stroizer Library *(May 2018 - present)*
+
 * Reserach Assistant, College of Communication *(January 2017-present)*
   * Created and managed digital audio-visual assets in support of collaborative social science research project examining representations of Middle Eastern cultures in popular media
   * Created and managed a web-based content analysis portal using Qualtrics survey software for use by project participants
