@@ -1,17 +1,18 @@
 <h1>Dave Rodriguez</h1>
 
 <div>
-  <p>Born and raised in Miami, FL, Dave Rodriguez is a Resident Librarian at Florida State University. His research interests focus on the digital preservation and curation of time-based media, media archaeology, expanded cinema, data visualization, and open educational resources. In the past, Dave has worked preserving moving image collections at George Eastman Museum, Bard College, and Continental Film and Digital Laboratory. He is co-founder and co-director of Miami Music Club, a nomadic music venue and art space catering to experimental sonic and visual art supported by the John S. and James L. Knight Foundation</p>
+  <p>Dave Rodriguez is Resident Librarian in the Office of Digital Research and Scholarship at Florida State University. He holds a BA from New College of Florida (2009, Literature), an MA from the University of Florida (2011, Film & Media Studies), a Certificate from The L. Jeffrey Selznick School of Film Preservation (2012), and an MLIS from Florida State University (2018). Before coming to FSU, Dave worked in film and audio-visual preservation in museums, archives, and in the private and non-profit sectors. These positions included Chief Projectionist of the Motion Picture Department at George Eastman Museum, Manager/Archivist of The Center for Moving Image Arts at Bard College, laboratory technician at Continental Film & Digital Laboratory, and in Special Collections at the University of Miami. He has also worked as a freelance museum preparator and art handler. His current work at FSU Libraries focuses on digital media stewardship, repository management, and open-source technologies. His research interests include the curation of time-based media, copyright law, media archaeology, and experimental film/video/music. </p>
 </div>
 
-Email: david.william.rodriguez@gmail.com
+Email: david.william.rodriguez@gmail.com <br/>
+ORCID: https://orcid.org/0000-0001-9759-8464
 
 ********
 
 ## Education
 
 **Florida State University,**    **May 2018** <br/>
-*Master of Science in Information*
+*MLIS*
 
 **The L. Jeffrey Selznick School of Film Preservation,**   **May 2012** <br/>
 *Certificate*  
@@ -27,23 +28,27 @@ Email: david.william.rodriguez@gmail.com
 ## Professional Experience
 
 ### Florida State University (Tallahassee, FL) <br/> *August 2016-present*
-* Resident Librarian, Stroizer Library *(May 2018 - present)*
+* Resident Librarian, Office of Digital Research and Scholarship *May 2018 - present*
+  * Developed new policies and workflows for managing Library's extensive audiovisual collections
+  * Refurbished audio-visual equipment to conduct transfers and digitization of legacy media collections
+  * Served as Subject Librarian of Film and to the College of Motion Picture Arts
+  * Developed proposals for large scale media preservation initiatives
+  * Collaborated with Research Respository Specialist and IT staff on developing new features and functionalities for FSU's Digital Respository, Diginole
 
-* Reserach Assistant, College of Communication *(January 2017-present)*
+* Reserach Assistant, College of Communication (*January 2017-May 2018*)
   * Created and managed digital audio-visual assets in support of collaborative social science research project examining representations of Middle Eastern cultures in popular media
   * Created and managed a web-based content analysis portal using Qualtrics survey software for use by project participants
   * Conducted quality checks, transcoded, and edited metadata of digital assets using the FFmpeg multimedia framework and other open-source tools
   * Conducted on-going research on computer vision applications to assist in visual media content analysis
   * Supervised by the Office of the Associate Dean of FSU College of Communication and Information
 
-* Library and Mususem Assistant, Special Collections and University Archives *(October 2016-present)*
+* Library and Mususem Assistant, Special Collections and University Archives (*October 2016-May 2018)*
   * Applied archival practices to consolidating, processing, and housing extensive historical photography collection held at Museum and Archives
   * Sorted, labeled, and rehoused photographic negatives and prints in archival folders and boxes
   * Created high-quality digital scans of a wide variety of photographic materials for both preservation and patron access
   * Used Archon software to create and update finding aides related to photographic collections
 
-### University of Miami <br/>
-*April 2016-August 2016*
+### University of Miami <br/> *April 2016-August 2016*
 * Library Assistant, Special Collections and University Archives
   * Implemented a detailed survey of audio-visual materials in collection to determine preservation priorities and added/updated information in finding aides
   * Assisted with requesting, pulling, and preparing collection materials for students, faculty, and outside researchers
@@ -52,8 +57,7 @@ Email: david.william.rodriguez@gmail.com
   * Liaised with off-site storage staff on the timely and safe transport of materials to the SC Reading Room
   * Maintained departmental records including collection-use statistics, meeting minutes, and visitor logs
 
-### Continental Film and Digital Laboratory (Miami, FL) <br/>
-*July 2015-April 2016*
+### Continental Film and Digital Laboratory (Miami, FL) <br/> *July 2015-April 2016*
 * Film Laboratory Technician
   * Created high-quality digital transfers of 16 and 35mm film elements using Spirit Datacine and DaVinci Resolve editing and color correction software for both clients and in-house collection
   * Transcoded and managed digitized materials in local server and migrated material to LTO tape
@@ -61,8 +65,20 @@ Email: david.william.rodriguez@gmail.com
   * Maintained and updated laboratory’s records on content and quality of generated digital elements
   * Determined preservation priorities by conducting historical research on collection items
 
-### Center for Moving Image Arts at Bard College (Annandale-on-Hudson, NY) <br/>
-*Febrary 2014-January 2015*
+### O Cinema Miami Beach (Miami, FL) <br/> *April 2016-August 2016*
+* Film Projectionist
+  * Inspected and exhibited 35mm prints using a platter projection system
+  * Worked with theater staff on performing maintenance and establishing regular upkeep procedures
+  * Operated a Digital Cinema projector and server when required including setting up and exhibiting alternative digital video content
+
+### Coral Gables Art Cinema (Miami, FL) <br/> *July 2015-August 2016*
+* Film Projectionist
+  * Inspected 35mm prints using archival standards for handling and repair creating detailed condition reports when required.
+  * Exhibited 35mm film on a reel-to-reel projection system
+  * Operated and assisted in maintaining 35mm/70mm reel-to-reel projection system
+  * Operated a Digital Cinema projector and server when required including setting up and exhibiting alternative digital video content
+
+### Center for Moving Image Arts at Bard College (Annandale-on-Hudson, NY) <br/> *Febrary 2014-January 2015*
 * Manager and Archivist
   * Created and implemented conservation and cataloging strategies for a burgeoning and rapidly expanding motion picture film collection
   * Oversaw construction, installation, and continued maintenance of vault spaces, shelving, and HVAC systems for the collection
@@ -72,8 +88,7 @@ Email: david.william.rodriguez@gmail.com
   * Worked closely with a wide variety of College staff/faculty on special events and interdepartmental events, programming, and technical upgrades
   * Gave presentations to undergraduate students on archival film handling, technology, and preservation
 
-### Geroge Eastman Museum (Rochester, NY) <br/>
-*July 2012-January 2014*
+### Geroge Eastman Museum (Rochester, NY) <br/> *July 2012-January 2014*
 * Chief Projectionist of the Moving Image Department
   * Inspected, projected, and shipped archival film materials, including nitrate film
   * Maintained, serviced, and operated several 35/16mm film projection systems for use in the Museum’s two theaters and small screening room
@@ -85,21 +100,25 @@ Email: david.william.rodriguez@gmail.com
   * Wrote programming copy for museum’s Film & Events Calendar
   * Trained and supervised a staff of 5-6 part-time projectionists
 
-### O Cinema Miami Beach (Miami, FL) <br/>
-*April 2016-August 2016*
-* Film Projectionist
-  * Inspected and exhibited 35mm prints using a platter projection system
-  * Worked with theater staff on performing maintenance and establishing regular upkeep procedures
-  * Operated a Digital Cinema projector and server when required including setting up and exhibiting alternative digital video content
+### Professional Experience - Art Preparator/Handler
 
-### Coral Gables Art Cinema (Miami, FL) <br/>
-*July 2015-August 2016*
-* Film Projectionist
-  * Inspected 35mm prints using archival standards for handling and repair creating detailed condition reports when required.
-  * Exhibited 35mm film on a reel-to-reel projection system
-  * Operated and assisted in maintaining 35mm/70mm reel-to-reel projection system
-  * Operated a Digital Cinema projector and server when required including setting up and exhibiting alternative digital video content
+#### Gadsden Arts Center (Quincy, FL) <br/> *October 2016 - January 2018*
+* Art Preparator/Handler
+  * Contracted for transport and installation of paintings and sculptures
+for rotating exhibitions and permanent collection items in GAC
+galleries
+  * Transported and installed artworks in local collectors’ residencies
+  * Collaborated with staff on technical strategies for specialized
+exhibitions of a wide variety of vernacular/folk artworks
 
-## Work Experience - Art Preparator/Handling
-
-### Gadsden Arts Center (Quincy, FL) 
+#### Fine Art Auctions Miami (Miami, FL) <br/> *January 2015 - July 2015*
+* Art Preparator/Handler
+  * Packaged, transported, and installed a variety of art works in
+galleries and private residences using museum-level standards and
+practices
+  * Managed and cataloged large inventory of paintings, sculptures,
+and antique furniture
+  * Performed conservation and preparation work on art works and
+respective housing materials
+  * Liaised with clients and other organizations in determining transport
+and install logistics
