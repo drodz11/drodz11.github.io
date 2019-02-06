@@ -88,7 +88,7 @@ ORCID: https://orcid.org/0000-0001-9759-8464
   * Worked closely with a wide variety of College staff/faculty on special events and interdepartmental events, programming, and technical upgrades
   * Gave presentations to undergraduate students on archival film handling, technology, and preservation
 
-### Geroge Eastman Museum (Rochester, NY) <br/> *July 2012-January 2014*
+### George Eastman Museum (Rochester, NY) <br/> *July 2012-January 2014*
 * Chief Projectionist of the Moving Image Department
   * Inspected, projected, and shipped archival film materials, including nitrate film
   * Maintained, serviced, and operated several 35/16mm film projection systems for use in the Museum’s two theaters and small screening room
